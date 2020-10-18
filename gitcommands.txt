@@ -19,17 +19,7 @@ git init
 #to Show hidden folder / files in gitbash
 ls -la
 
-#verify the changes done to the file or folder
+#to check the log of all changes
 
-git status
+git log
 
-#to save file in git local repository
-
-git add <filename>
-git add gitcommands.txt
-
-#to commit changes done in folder or file
-
-git commit -m <message to identify the changes>
-
-git commit -m "My First Git Commit"

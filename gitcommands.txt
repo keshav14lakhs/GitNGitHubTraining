@@ -23,3 +23,22 @@ ls -la
 
 git log
 
+
+
+git config --global core.editor "\"C:\Program Files (x86)\Notepad++.exe\""
+
+# difference in file 
+
+git diff
+git diff --staged
+
+
+#delete file in GIT
+
+git rm <filename>
+git rm gitcommands.txt
+
+#Connecting Git and Github 
+
+git init
+git remote add origin "https://github.com/keshav14lakhs/GitNGitHubTraining.git"

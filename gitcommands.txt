@@ -42,3 +42,5 @@ git rm gitcommands.txt
 
 git init
 git remote add origin "https://github.com/keshav14lakhs/GitNGitHubTraining.git"
+
+checking for pull command working
